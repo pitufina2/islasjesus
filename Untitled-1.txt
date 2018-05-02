@@ -1,0 +1,1 @@
+http://localhost/recibeformulario.php?fname=Maricarmen&lname=Bozas&contra=bozasguerra%40gmail.com&contra=bozasgue
